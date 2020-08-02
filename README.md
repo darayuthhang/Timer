@@ -1,4 +1,4 @@
-# CounDownTimer App
+# CounDownTimer App - React
 
 
 <hr/>
