@@ -6,7 +6,7 @@
 # Getting Started
  
  ## Installation
-    https://github.com/darayuthhang/Timer.git
+    git clone https://github.com/darayuthhang/Timer.git
 
 
 
