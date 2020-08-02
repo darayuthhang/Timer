@@ -16,11 +16,11 @@ buttons.
 
 speed at the following rates:
 
-○ 1.0X (normal speed, selected by default)
+* 1.0X (normal speed, selected by default)
 
-○ 1.5X
+* 1.5X
 
-○ 2X
+* 2X
 
   * When half of the selected duration has been passed, display a string of text above the
 
