@@ -3,6 +3,13 @@
 
 <hr/>
 
+# Getting Started
+ 
+ ## Installation
+    https://github.com/darayuthhang/Timer.git
+
+
+
 # User Story:
   * The user should be able to enter a # of minutes (positive integer) and click a “Start”
 button to initialize the countdown
