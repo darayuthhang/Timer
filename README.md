@@ -1,26 +1,26 @@
 ### @SourceCodeFileController - Routes:
 
-    ### Create or Upload Source Code file
+### Create or Upload Source Code file
 
-    #### Request
+#### Request
 
-        - POST /api/v1/source-code-files
-        
-    #### Response
+    - POST /api/v1/source-code-files
+    
+#### Response
 
-        {
-        "success": true
-        }
+    {
+      "success": true
+    }
 
-    ### Get list of Source Code files
+### Get list of Source Code files
 
-    #### Request
+#### Request
 
-        - GET /api/v1/source-code-files/:productInfoId
-        
-    #### Response
+    - GET /api/v1/source-code-files/:productInfoId
+    
+#### Response
 
-        {
-        "success": true,
-        data: []
-        }
+    {
+      "success": true,
+       data: []
+    }
